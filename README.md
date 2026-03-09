@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heather-Tymms
 - 👀 I’m interested in data science, analytics and machine learning.
-- 🌱 I’m currently learning R at University level in my BSc (Hons) Mathematics course.
-- 💞️ I’m looking to collaborate on data analytics on python
+- 🌱 I’m currently working as a Data Science and Analytics Advisor in an engineering consultancy.
+- 💞️ I’m looking to collaborate on data analytics or data science projects in python.
 - 📫 How to reach me heather.tymms@googlemail.com
 
 <!---
